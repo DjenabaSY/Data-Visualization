@@ -1,1 +1,2 @@
-# Projets-Acad-miques
+# Projet de Visualisation des données
+## Le secteur des supermarchés est en pleine croissance, en particulier dans les zones urbaines densément peuplées, où la concurrence est intense. Ce projet d'analyse de données à travers ce tableau de bord vise à examiner et suivre  l'évolution des ventes dans des supermarchés répartis sur différents sites géographiques au cours d'une période de trois mois (janvier à mars 2019). Cette analyse fournit aux responsables des insights précieux sur les tendances de vente, les performances financières, et les préférences des clients dans un contexte géographique diversifié et sur une fenêtre temporelle restreinte.
